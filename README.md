@@ -13,6 +13,7 @@ I pushed from bronze 3 to gold 1 by using this script I hope you guys will have 
 2. After that open cmd and type : pip3 install python-imageseach-drov0
 3. Then open cmd or PowerShell and do this: (directory where you .py file is stored)/python name.py
 
+## Wacth the video below for instructions.
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Hxv1F9Jmm-U/0.jpg)](https://www.youtube.com/embed/Hxv1F9Jmm-U)
 
 ## How to use:
